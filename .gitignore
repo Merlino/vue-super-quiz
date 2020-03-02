@@ -1,0 +1,20 @@
+.DS_Store
+node_modules/
+/dist/
+public/
+
+.deploy*/
+src/_drafts
+
+# local env files
+.env.local
+.env.*.local
+
+# Log files
+npm-debug.log*
+
+
+# lock of package
+package-lock.json
+
+
