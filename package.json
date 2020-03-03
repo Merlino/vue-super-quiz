@@ -1,6 +1,6 @@
 {
   "name": "vue-super-quiz",
-  "description": "Exercise of vue app with animation",
+  "description": "Vue app for understand how to create an app.",
   "author": "Andrea Staccini",
   "private": true,
   "scripts": {
